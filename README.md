@@ -1,17 +1,8 @@
-# Sample Snack app
+# Star Wars App
 
-Welcome to Expo!
+This was a short project I did to learn the basics of React Native. The app fetches data from the Star Wars API (https://swapi.co).
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+The app was originally written in Expo - Snack. Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
-
-
-
+###  Preview of the App
 <img width="266" alt="preview" src="https://user-images.githubusercontent.com/31573030/50502617-92c36b80-0a9b-11e9-8c61-ad3bbf970687.png">
